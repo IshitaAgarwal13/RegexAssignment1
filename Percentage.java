@@ -5,7 +5,7 @@ division, >=40.00 AND <50.00 Third division, <40.00 Fail]  */
 package javaPack;
 import java.util.Scanner;
 
-public class DataTypeDemo {
+public class Percentage {
 
         public static void main(String[] args) {
                 // TODO Auto-generated method stub
