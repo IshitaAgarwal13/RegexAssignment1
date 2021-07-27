@@ -17,7 +17,7 @@ class LeapYear{
 
             }
             else{
-                 if(year%400==0)
+                 if(year%4==0)
                      result="leap year";
                  else
                      result="not a leap year";    
