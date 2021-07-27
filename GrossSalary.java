@@ -4,7 +4,7 @@ basic salary (in INR), hra (in percentage), da (in percentage), ta (in percentag
 package javaPack;
 import java.util.Scanner;
 
-public class DataTypeDemo {
+public class GrossSalary {
 
         public static void main(String[] args) {
                 // TODO Auto-generated method stub
